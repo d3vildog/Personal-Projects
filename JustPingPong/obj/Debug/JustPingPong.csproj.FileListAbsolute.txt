@@ -1,0 +1,4 @@
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\bin\Debug\JustPingPong.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\bin\Debug\JustPingPong.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\obj\Debug\JustPingPong.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\obj\Debug\JustPingPong.pdb

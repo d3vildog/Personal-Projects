@@ -1,0 +1,5 @@
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\bin\Release\JustPingPong.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\bin\Release\JustPingPong.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\obj\Release\JustPingPong.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\obj\Release\JustPingPong.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustPingPong\obj\Release\JustPingPong.csprojResolveAssemblyReference.cache
