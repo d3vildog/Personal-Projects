@@ -1,0 +1,5 @@
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\Tron\bin\Debug\Tron.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\Tron\bin\Debug\Tron.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\Tron\obj\Debug\Tron.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\Tron\obj\Debug\Tron.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\Tron\obj\Debug\Tron.pdb
