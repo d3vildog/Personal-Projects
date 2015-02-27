@@ -1,0 +1,5 @@
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustChickenInvaders\bin\Debug\JustChickenInvaders.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustChickenInvaders\bin\Debug\JustChickenInvaders.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustChickenInvaders\obj\Debug\JustChickenInvaders.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustChickenInvaders\obj\Debug\JustChickenInvaders.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustChickenInvaders\obj\Debug\JustChickenInvaders.csprojResolveAssemblyReference.cache
