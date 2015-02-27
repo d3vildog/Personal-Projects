@@ -1,0 +1,10 @@
+C:\Users\user\Documents\SharpDevelop Projects\BricksBuster\BricksBuster\bin\Debug\BricksBuster.exe
+C:\Users\user\Documents\SharpDevelop Projects\BricksBuster\BricksBuster\bin\Debug\BricksBuster.pdb
+C:\Users\user\Documents\SharpDevelop Projects\BricksBuster\BricksBuster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\SharpDevelop Projects\BricksBuster\BricksBuster\obj\Debug\BricksBuster.exe
+C:\Users\user\Documents\SharpDevelop Projects\BricksBuster\BricksBuster\obj\Debug\BricksBuster.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\BricksBuster\obj\Debug\BricksBuster.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\BricksBuster\obj\Debug\BricksBuster.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\BricksBuster\bin\Debug\BricksBuster.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\BricksBuster\bin\Debug\BricksBuster.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\BricksBuster\obj\Debug\BricksBuster.csprojResolveAssemblyReference.cache

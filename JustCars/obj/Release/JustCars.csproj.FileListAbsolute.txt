@@ -1,0 +1,5 @@
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustCars\bin\Release\JustCars.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustCars\bin\Release\JustCars.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustCars\obj\Release\JustCars.exe
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustCars\obj\Release\JustCars.pdb
+C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustCars\obj\Release\JustCars.csprojResolveAssemblyReference.cache
