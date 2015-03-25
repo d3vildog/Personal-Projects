@@ -22,7 +22,7 @@ document.addEventListener('keydown', function(ev){
               a = 0;
           }
       }, 100);
-      i+=1;
+      i-=1;
       body.style.backgroundPosition = i + "px " + "0px";
   }
 });
@@ -45,7 +45,7 @@ document.addEventListener('keydown', function(ev){
                 a = 0;
             }
         }, 100);
-        i-=1;
+        i+=1;
         body.style.backgroundPosition = i + "px " + "0px";
     }
 });
