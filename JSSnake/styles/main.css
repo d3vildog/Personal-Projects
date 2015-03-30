@@ -1,0 +1,96 @@
+body {
+    padding: 10px;
+}
+
+#playerInfo {
+    box-sizing: border-box;
+    border-left: solid black 1px;
+    border-right: solid black 1px;
+    border-top: solid black 1px;
+    display: block;
+    width: 541px;
+    height: 70px;
+    background-color: deepskyblue;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#gameover {
+    margin: 170px auto;
+    width: 408px;
+    font-style: italic;
+    z-index: 999999;
+}
+
+#totalScore {
+    font-size: 30px;
+    margin: 0 auto;
+    width: 200px;
+}
+
+h2 {
+    z-index: 6876876987;
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+#lives {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#points {
+    display: inline-block;
+    margin-left: 390px;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#wrapper {
+    width: 555px;
+    margin: 0 auto;
+}
+
+#playground {
+    z-index: 0;
+    display: inline-block;
+    background-image: url("../database/background.png");
+    background-repeat: repeat;
+    height: 500px;
+    width: 541px;
+    position: absolute;
+}
+
+.snake {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-image: url("../database/snakeHead.png");
+    background-size: cover;
+    position: absolute;
+    z-index: -50;
+}
+
+.snakeBody {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-image: url("../database/snakeBody.png");
+    background-size: cover;
+    position: absolute;
+    z-index: -50;
+}
+
+#apple {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-image: url("../database/apple.png");
+    background-size: cover;
+    position: absolute;
+    z-index: -20;
+}

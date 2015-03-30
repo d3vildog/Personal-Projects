@@ -3,3 +3,8 @@ C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustSnake\bin\Debug\JustSnake.pdb
 C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustSnake\obj\Debug\JustSnake.csprojResolveAssemblyReference.cache
 C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustSnake\obj\Debug\JustSnake.exe
 C:\Users\Dani\Desktop\VS Solutions\Homework-01\JustSnake\obj\Debug\JustSnake.pdb
+D:\Lessons\Personal-Projects.git\trunk\JustSnake\obj\Debug\JustSnake.exe
+D:\Lessons\Personal-Projects.git\trunk\JustSnake\obj\Debug\JustSnake.pdb
+D:\Lessons\Personal-Projects.git\trunk\JustSnake\bin\Debug\JustSnake.exe
+D:\Lessons\Personal-Projects.git\trunk\JustSnake\bin\Debug\JustSnake.pdb
+D:\Lessons\Personal-Projects.git\trunk\JustSnake\obj\Debug\JustSnake.csprojResolveAssemblyReference.cache

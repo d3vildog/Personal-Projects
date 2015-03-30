@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/scripts/ini.js" libraries="{HTML, HTML5 / EcmaScript 5, Node.js Globals, WebGL}" />
+    <includedPredefinedLibrary name="Meteor project library" />
+    <includedPredefinedLibrary name="Nashorn" />
+    <includedPredefinedLibrary name="Node.js Globals" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
