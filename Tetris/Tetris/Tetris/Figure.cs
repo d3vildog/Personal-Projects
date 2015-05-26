@@ -12,6 +12,7 @@ namespace Testris
         protected Direction direction;
         protected ConsoleColor color = ConsoleColor.Blue;
 
+
         public Figure(int x, int y, Direction direction)
         {
             this.X = x;

@@ -5,3 +5,8 @@ C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Debug\Tetris.exe
 C:\Users\user\Documents\SharpDevelop Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
 C:\Users\Dani\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
 C:\Users\Dani\Desktop\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Dani\Documents\Visual Studio 2013\Projects\SVNTest\trunk\Tetris\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Dani\Documents\Visual Studio 2013\Projects\SVNTest\trunk\Tetris\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Dani\Documents\Visual Studio 2013\Projects\SVNTest\trunk\Tetris\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Dani\Documents\Visual Studio 2013\Projects\SVNTest\trunk\Tetris\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Dani\Documents\Visual Studio 2013\Projects\SVNTest\trunk\Tetris\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
